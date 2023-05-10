@@ -1,0 +1,44 @@
+{
+  "showCase": [
+    {
+      "id": 1,
+      "name": "Strawberry donuts",
+      "img": "../src/assets/showcase/strawberrydonuts.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Snickers birthdaycake",
+      "img": "../src/assets/showcase/snickerscake.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Rocky birthdaycake",
+      "img": "../src/assets/showcase/rockyroadcake.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mixed donut set",
+      "img": "../src/assets/showcase/mixeddonuts.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "18th birthday donuts",
+      "img": "../src/assets/showcase/18donuts.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cheesecake brownies",
+      "img": "../src/assets/showcase/cheesecakebrownies.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Wedding cupcakes",
+      "img": "../src/assets/showcase/weddingcupcakes.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Vegan variety brownies",
+      "img": "../src/assets/showcase/veganvarietybrownies.jpg"
+    }
+  ]
+}
